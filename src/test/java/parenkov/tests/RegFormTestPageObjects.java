@@ -2,7 +2,6 @@ package parenkov.tests;
 
 import org.junit.jupiter.api.Test;
 import parenkov.pages.RegFormPage;
-
 import static parenkov.tests.TestData.*;
 
 
